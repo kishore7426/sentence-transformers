@@ -1,0 +1,13 @@
+I am conducting an LLM-as-judge experiment for a university research project on semantic similarity.
+
+I have uploaded a CSV containing 40 sentence pairs and an annotation guidelines file.
+
+Independently evaluate the semantic similarity of every sentence pair using the provided 0–5 scoring guidelines.
+
+Instructions:
+- Evaluate meaning, not just overlapping words.
+- Pay attention to negation, numerical changes, entity changes, and reversed semantic roles.
+- Assign one integer score from 0 to 5 to each pair.
+- Do not modify the sentence text or IDs.
+- Return a downloadable CSV with exactly these columns: id, llm_score.
+- Score all 40 pairs without skipping any.
