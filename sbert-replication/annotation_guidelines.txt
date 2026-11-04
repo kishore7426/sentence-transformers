@@ -1,0 +1,21 @@
+CONTROLLED SEMANTIC SIMILARITY DATASET — ANNOTATION GUIDELINES
+
+Purpose
+Rate the semantic similarity of each sentence pair independently of its category.
+
+Scale
+5 = Semantically equivalent: essentially the same meaning.
+4 = Mostly equivalent: same central meaning with a small difference in detail.
+3 = Strongly related but not equivalent: substantial shared meaning, but an important difference.
+2 = Related topic with limited shared meaning.
+1 = Slightly related: a weak topical or contextual connection.
+0 = Unrelated or clearly incompatible meanings.
+
+Instructions
+1. Read both sentences completely before scoring.
+2. Judge meaning, not just shared words.
+3. Pay particular attention to negation, who did what to whom, numbers, locations, people, organisations, and other entities.
+4. Do not change a score merely because wording is different if the meaning is preserved.
+5. Record one integer from 0 to 5 in the human_score column.
+6. Record an annotator identifier (for example A1 or A2) in the annotator column.
+7. If uncertain between two scores, choose the score that best reflects the amount of meaning preserved and note the case separately for later review.
