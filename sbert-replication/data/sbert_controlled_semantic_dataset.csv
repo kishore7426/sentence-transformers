@@ -1,0 +1,161 @@
+id,sentence1,sentence2,category,human_score,annotator
+1,The child purchased a bicycle.,The kid bought a bike.,paraphrase,5,A1
+2,The meeting begins at nine in the morning.,The meeting starts at 9 a.m.,paraphrase,5,A1
+3,She closed the window before leaving.,"Before she left, she shut the window.",paraphrase,5,A1
+4,The company announced a new policy yesterday.,"Yesterday, the company introduced a new policy.",paraphrase,4,A1
+5,The train arrived ten minutes late.,The train was delayed by ten minutes.,paraphrase,5,A1
+6,He completed the assignment before the deadline.,He finished the assignment ahead of the deadline.,paraphrase,5,A1
+7,The restaurant is located near the station.,The restaurant is close to the train station.,paraphrase,5,A1
+8,The researchers published their findings online.,The researchers released their results on the internet.,paraphrase,5,A1
+9,The teacher explained the problem to the class.,The instructor explained the problem to the students.,paraphrase,5,A1
+10,The temperature dropped during the night.,It became colder overnight.,paraphrase,5,A1
+11,Maria sent the document by email.,Maria emailed the document.,paraphrase,5,A1
+12,The flight was cancelled because of bad weather.,Bad weather caused the flight to be cancelled.,paraphrase,5,A1
+13,The dog is sleeping under the table.,A dog is asleep beneath the table.,paraphrase,4,A1
+14,The museum opens at ten o'clock.,The museum starts admitting visitors at 10 a.m.,paraphrase,4,A1
+15,The team won the match by two goals.,The team defeated its opponent by two goals.,paraphrase,5,A1
+16,John repaired the broken chair.,John fixed the damaged chair.,paraphrase,4,A2
+17,The road was blocked after the accident.,The accident caused the road to be closed.,paraphrase,5,A2
+18,The patient reported severe chest pain.,The patient said they had intense pain in the chest.,paraphrase,5,A2
+19,The lecture was moved to a larger room.,The lecture was relocated to a bigger room.,paraphrase,5,A2
+20,The software update fixed the error.,The error was resolved by the software update.,paraphrase,5,A2
+21,The city introduced new recycling rules.,New recycling regulations were introduced by the city.,paraphrase,5,A2
+22,The book was translated into three languages.,The book appeared in translations in three languages.,paraphrase,4,A2
+23,The store reduced the price of the laptop.,The laptop's price was lowered by the store.,paraphrase,5,A2
+24,The storm damaged several houses.,Several homes were damaged by the storm.,paraphrase,5,A2
+25,The committee approved the proposal unanimously.,Every member of the committee approved the proposal.,paraphrase,5,A2
+26,The child purchased a bicycle.,The child enjoys cycling.,related,2,A1
+27,The doctor prescribed antibiotics.,The patient visited a medical clinic.,related,2,A1
+28,The students studied for the exam.,The exam covered five chapters.,related,2,A1
+29,The company opened a new office.,The company hired more employees.,related,2,A1
+30,Heavy rain fell overnight.,Several roads were flooded in the morning.,related,3,A1
+31,The chef prepared pasta for dinner.,The restaurant serves Italian food.,related,2,A1
+32,The athlete trained every morning.,The athlete entered a national competition.,related,2,A1
+33,The library extended its opening hours.,Many students study at the library.,related,2,A1
+34,The government announced a housing policy.,House prices have increased this year.,related,1,A1
+35,The researchers collected survey responses.,The study examined public attitudes.,related,3,A1
+36,The airport added a new terminal.,Passenger numbers at the airport increased.,related,2,A1
+37,The school purchased new computers.,Students use laptops in several classes.,related,2,A1
+38,The farmer planted wheat in April.,The farm produces several types of grain.,related,3,A1
+39,The film won an international award.,The director attended the film festival.,related,2,A1
+40,The bank changed its interest rates.,Many customers have home loans.,related,2,A1
+41,The hospital expanded its emergency department.,Emergency rooms treat urgent medical cases.,related,2,A2
+42,The university introduced a new course.,Students can choose from many subjects.,related,2,A2
+43,The council built a new cycle path.,More residents are commuting by bicycle.,related,2,A2
+44,The factory installed solar panels.,The company is trying to reduce emissions.,related,3,A2
+45,The team signed a new goalkeeper.,The club will play a match on Saturday.,related,2,A2
+46,The phone has a larger battery.,The phone can be charged wirelessly.,related,2,A2
+47,The conference attracted 500 participants.,Several researchers presented papers at the conference.,related,3,A2
+48,The river level rose after the storm.,The region experienced unusually wet weather.,related,2,A2
+49,The supermarket opened a new branch.,Customers can buy groceries there.,related,3,A2
+50,The museum displayed ancient pottery.,The exhibition focused on early civilizations.,related,3,A2
+51,The experiment was successful.,The experiment was not successful.,negation,0,A1
+52,The train arrived on time.,The train did not arrive on time.,negation,0,A1
+53,The patient has a fever.,The patient does not have a fever.,negation,0,A1
+54,The company made a profit this year.,The company did not make a profit this year.,negation,0,A1
+55,Sarah attended the meeting.,Sarah did not attend the meeting.,negation,0,A1
+56,The door is locked.,The door is not locked.,negation,0,A1
+57,The software supports offline access.,The software does not support offline access.,negation,0,A1
+58,The restaurant accepts credit cards.,The restaurant does not accept credit cards.,negation,0,A1
+59,The package arrived yesterday.,The package did not arrive yesterday.,negation,0,A1
+60,The test detected the virus.,The test did not detect the virus.,negation,0,A1
+61,The students passed the examination.,The students did not pass the examination.,negation,0,A1
+62,The machine is operating normally.,The machine is not operating normally.,negation,0,A1
+63,The report contains confidential information.,The report does not contain confidential information.,negation,0,A1
+64,The road is open to traffic.,The road is not open to traffic.,negation,0,A1
+65,The medication reduced the pain.,The medication did not reduce the pain.,negation,0,A1
+66,The applicant met all requirements.,The applicant did not meet all requirements.,negation,0,A2
+67,The file was successfully uploaded.,The file was not successfully uploaded.,negation,0,A2
+68,The building has wheelchair access.,The building does not have wheelchair access.,negation,0,A2
+69,The witness recognised the suspect.,The witness did not recognise the suspect.,negation,0,A2
+70,The new policy applies to international students.,The new policy does not apply to international students.,negation,0,A2
+71,The device is connected to the network.,The device is not connected to the network.,negation,0,A2
+72,The data support the hypothesis.,The data do not support the hypothesis.,negation,0,A2
+73,The shop is open on Sundays.,The shop is not open on Sundays.,negation,0,A2
+74,The flight includes a checked bag.,The flight does not include a checked bag.,negation,0,A2
+75,The treatment caused side effects.,The treatment did not cause side effects.,negation,0,A2
+76,Alice gave the book to Bob.,Bob gave the book to Alice.,argument_reversal,3,A1
+77,The dog chased the cat.,The cat chased the dog.,argument_reversal,3,A1
+78,The teacher praised the student.,The student praised the teacher.,argument_reversal,3,A1
+79,The car hit the bicycle.,The bicycle hit the car.,argument_reversal,2,A1
+80,The manager called the employee.,The employee called the manager.,argument_reversal,2,A1
+81,The nurse helped the patient.,The patient helped the nurse.,argument_reversal,3,A1
+82,The company acquired the startup.,The startup acquired the company.,argument_reversal,2,A1
+83,Emma defeated Olivia in the final.,Olivia defeated Emma in the final.,argument_reversal,3,A1
+84,The police officer questioned the witness.,The witness questioned the police officer.,argument_reversal,1,A1
+85,The truck overtook the bus.,The bus overtook the truck.,argument_reversal,3,A1
+86,The editor criticised the author.,The author criticised the editor.,argument_reversal,3,A1
+87,The mother hugged the child.,The child hugged the mother.,argument_reversal,3,A1
+88,The landlord sued the tenant.,The tenant sued the landlord.,argument_reversal,2,A1
+89,The university funded the laboratory.,The laboratory funded the university.,argument_reversal,2,A1
+90,The doctor referred the patient to the specialist.,The specialist referred the patient to the doctor.,argument_reversal,2,A1
+91,The senator supported the mayor.,The mayor supported the senator.,argument_reversal,3,A2
+92,The customer paid the supplier.,The supplier paid the customer.,argument_reversal,3,A2
+93,The goalkeeper blocked the striker.,The striker blocked the goalkeeper.,argument_reversal,3,A2
+94,The journalist interviewed the actor.,The actor interviewed the journalist.,argument_reversal,2,A2
+95,The judge questioned the lawyer.,The lawyer questioned the judge.,argument_reversal,1,A2
+96,The buyer contacted the seller.,The seller contacted the buyer.,argument_reversal,1,A2
+97,The parent taught the child French.,The child taught the parent French.,argument_reversal,1,A2
+98,The company licensed the technology to the university.,The university licensed the technology to the company.,argument_reversal,2,A2
+99,The host introduced the guest.,The guest introduced the host.,argument_reversal,3,A2
+100,The doctor thanked the nurse.,The nurse thanked the doctor.,argument_reversal,3,A2
+101,Mortality fell by 20%.,Mortality fell by 2%.,numerical_change,3,A1
+102,The meeting starts at 8 a.m.,The meeting starts at 8 p.m.,numerical_change,3,A1
+103,The bridge is 500 metres long.,The bridge is 50 metres long.,numerical_change,3,A1
+104,"The company employs 1,200 people.",The company employs 120 people.,numerical_change,3,A1
+105,The patient received 10 milligrams of the drug.,The patient received 100 milligrams of the drug.,numerical_change,3,A1
+106,The temperature reached 40 degrees.,The temperature reached 14 degrees.,numerical_change,2,A1
+107,The journey takes two hours.,The journey takes twelve hours.,numerical_change,3,A1
+108,The project cost 3 million dollars.,The project cost 30 million dollars.,numerical_change,3,A1
+109,The study included 500 participants.,The study included 50 participants.,numerical_change,3,A1
+110,Sales increased by 15 percent.,Sales increased by 50 percent.,numerical_change,2,A1
+111,The building has 12 floors.,The building has 21 floors.,numerical_change,3,A2
+112,The train leaves at 6:15.,The train leaves at 6:50.,numerical_change,3,A2
+113,The warranty lasts three years.,The warranty lasts thirteen years.,numerical_change,3,A2
+114,The package weighs 2 kilograms.,The package weighs 20 kilograms.,numerical_change,3,A2
+115,The team scored four goals.,The team scored fourteen goals.,numerical_change,2,A2
+116,"The population is 80,000.","The population is 800,000.",numerical_change,3,A2
+117,The test took 30 minutes.,The test took 3 minutes.,numerical_change,3,A2
+118,The interest rate is 4.5 percent.,The interest rate is 9.5 percent.,numerical_change,2,A2
+119,The course has 24 students.,The course has 42 students.,numerical_change,3,A2
+120,The battery lasts 18 hours.,The battery lasts 8 hours.,numerical_change,2,A2
+121,The conference was held in Sydney.,The conference was held in Melbourne.,entity_change,3,A1
+122,Maria submitted the report.,Daniel submitted the report.,entity_change,3,A1
+123,The study was conducted in Australia.,The study was conducted in Canada.,entity_change,3,A1
+124,Toyota announced the recall.,Honda announced the recall.,entity_change,3,A1
+125,The flight departed from London.,The flight departed from Paris.,entity_change,2,A1
+126,The treaty was signed by France.,The treaty was signed by Germany.,entity_change,3,A1
+127,The company opened an office in Singapore.,The company opened an office in Tokyo.,entity_change,3,A1
+128,The article was published by Reuters.,The article was published by Bloomberg.,entity_change,3,A1
+129,The match was played in Brisbane.,The match was played in Perth.,entity_change,3,A1
+130,The university partnered with Microsoft.,The university partnered with Google.,entity_change,3,A1
+131,The package was delivered to Sarah.,The package was delivered to Michael.,entity_change,3,A2
+132,The research focused on diabetes.,The research focused on asthma.,entity_change,2,A2
+133,The train travels to Newcastle.,The train travels to Wollongong.,entity_change,3,A2
+134,The minister met the Japanese delegation.,The minister met the Korean delegation.,entity_change,3,A2
+135,The software runs on Windows.,The software runs on Linux.,entity_change,3,A2
+136,The patient was treated at Westmead Hospital.,The patient was treated at Royal Prince Alfred Hospital.,entity_change,3,A2
+137,The company purchased equipment from Japan.,The company purchased equipment from China.,entity_change,3,A2
+138,The award was given to Priya.,The award was given to James.,entity_change,3,A2
+139,The storm affected Queensland.,The storm affected Victoria.,entity_change,3,A2
+140,The spacecraft was launched by NASA.,The spacecraft was launched by ESA.,entity_change,3,A2
+141,The child bought a bicycle.,Inflation increased in July.,unrelated,0,A1
+142,The cat slept on the sofa.,The company reported quarterly earnings.,unrelated,0,A1
+143,The train arrived at the station.,Scientists discovered a new species of frog.,unrelated,0,A1
+144,She baked a chocolate cake.,The election will be held next month.,unrelated,0,A1
+145,The laptop battery is fully charged.,The river flooded several farms.,unrelated,0,A1
+146,The football team won the match.,The museum displayed ancient coins.,unrelated,0,A1
+147,He watered the garden.,The central bank changed interest rates.,unrelated,0,A1
+148,The doctor examined the patient.,A new bridge opened across the river.,unrelated,0,A1
+149,The book contains twelve chapters.,The airport cancelled several flights.,unrelated,0,A1
+150,The restaurant serves breakfast.,The telescope captured images of Mars.,unrelated,0,A1
+151,The student submitted an essay.,Oil prices fell on Monday.,unrelated,0,A2
+152,The dog barked at the gate.,The software company released an update.,unrelated,0,A2
+153,The bus was crowded this morning.,Researchers tested a new vaccine.,unrelated,0,A2
+154,The painter finished the portrait.,The factory increased steel production.,unrelated,0,A2
+155,The phone rang during dinner.,The council approved a housing development.,unrelated,0,A2
+156,The baby is sleeping.,The stock market closed higher.,unrelated,0,A2
+157,The chef chopped the onions.,The satellite entered orbit.,unrelated,0,A2
+158,The teacher marked the exams.,The drought reduced crop yields.,unrelated,0,A2
+159,The window was left open.,The basketball player signed a new contract.,unrelated,0,A2
+160,The coffee is too hot.,The government announced tax changes.,unrelated,0,A2
