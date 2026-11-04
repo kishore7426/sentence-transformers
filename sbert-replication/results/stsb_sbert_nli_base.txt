@@ -1,0 +1,12 @@
+Loading STS Benchmark...
+Loading model: sentence-transformers/bert-base-nli-mean-tokens
+Encoding sentence pairs...
+
+Number of test pairs: 1379
+Spearman correlation: 0.7698523722656224
+Spearman x 100: 76.98523722656225
+
+--- Replication Comparison ---
+Paper SBERT-NLI-base STSb: 77.03
+Reproduced STSb:           76.99
+Absolute difference:        0.04

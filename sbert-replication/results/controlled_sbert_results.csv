@@ -1,0 +1,161 @@
+id,sentence1,sentence2,category,human_score,annotator,sbert_cosine,sbert_mapped_0_5,absolute_gap
+1,The child purchased a bicycle.,The kid bought a bike.,paraphrase,5,A1,0.9555889,4.8889723,0.11102771759033203
+2,The meeting begins at nine in the morning.,The meeting starts at 9 a.m.,paraphrase,5,A1,0.9172976,4.793244,0.2067561149597168
+3,She closed the window before leaving.,"Before she left, she shut the window.",paraphrase,5,A1,0.9456273,4.864068,0.13593196868896484
+4,The company announced a new policy yesterday.,"Yesterday, the company introduced a new policy.",paraphrase,4,A1,0.9658029,4.9145074,0.9145073890686035
+5,The train arrived ten minutes late.,The train was delayed by ten minutes.,paraphrase,5,A1,0.9234017,4.808504,0.1914958953857422
+6,He completed the assignment before the deadline.,He finished the assignment ahead of the deadline.,paraphrase,5,A1,0.9603289,4.900822,0.09917783737182617
+7,The restaurant is located near the station.,The restaurant is close to the train station.,paraphrase,5,A1,0.873117,4.6827927,0.31720733642578125
+8,The researchers published their findings online.,The researchers released their results on the internet.,paraphrase,5,A1,0.8779573,4.6948934,0.30510663986206055
+9,The teacher explained the problem to the class.,The instructor explained the problem to the students.,paraphrase,5,A1,0.95236355,4.880909,0.11909103393554688
+10,The temperature dropped during the night.,It became colder overnight.,paraphrase,5,A1,0.7724579,4.4311447,0.5688552856445312
+11,Maria sent the document by email.,Maria emailed the document.,paraphrase,5,A1,0.9016696,4.754174,0.24582576751708984
+12,The flight was cancelled because of bad weather.,Bad weather caused the flight to be cancelled.,paraphrase,5,A1,0.97824824,4.9456205,0.05437946319580078
+13,The dog is sleeping under the table.,A dog is asleep beneath the table.,paraphrase,4,A1,0.98438114,4.9609528,0.9609527587890625
+14,The museum opens at ten o'clock.,The museum starts admitting visitors at 10 a.m.,paraphrase,4,A1,0.86929595,4.6732397,0.6732397079467773
+15,The team won the match by two goals.,The team defeated its opponent by two goals.,paraphrase,5,A1,0.895209,4.738023,0.2619771957397461
+16,John repaired the broken chair.,John fixed the damaged chair.,paraphrase,4,A2,0.926768,4.8169203,0.816920280456543
+17,The road was blocked after the accident.,The accident caused the road to be closed.,paraphrase,5,A2,0.8457828,4.614457,0.3855428695678711
+18,The patient reported severe chest pain.,The patient said they had intense pain in the chest.,paraphrase,5,A2,0.954236,4.88559,0.1144099235534668
+19,The lecture was moved to a larger room.,The lecture was relocated to a bigger room.,paraphrase,5,A2,0.98323464,4.9580865,0.041913509368896484
+20,The software update fixed the error.,The error was resolved by the software update.,paraphrase,5,A2,0.95903414,4.8975854,0.10241460800170898
+21,The city introduced new recycling rules.,New recycling regulations were introduced by the city.,paraphrase,5,A2,0.96424055,4.9106016,0.08939838409423828
+22,The book was translated into three languages.,The book appeared in translations in three languages.,paraphrase,4,A2,0.9734476,4.933619,0.9336190223693848
+23,The store reduced the price of the laptop.,The laptop's price was lowered by the store.,paraphrase,5,A2,0.9170423,4.7926054,0.20739459991455078
+24,The storm damaged several houses.,Several homes were damaged by the storm.,paraphrase,5,A2,0.9525815,4.881454,0.1185460090637207
+25,The committee approved the proposal unanimously.,Every member of the committee approved the proposal.,paraphrase,5,A2,0.89831597,4.7457895,0.2542104721069336
+26,The child purchased a bicycle.,The child enjoys cycling.,related,2,A1,0.5249547,3.8123868,1.8123867511749268
+27,The doctor prescribed antibiotics.,The patient visited a medical clinic.,related,2,A1,0.7313289,4.3283224,2.328322410583496
+28,The students studied for the exam.,The exam covered five chapters.,related,2,A1,0.42296055,3.5574012,1.557401180267334
+29,The company opened a new office.,The company hired more employees.,related,2,A1,0.61459374,4.0364842,2.0364842414855957
+30,Heavy rain fell overnight.,Several roads were flooded in the morning.,related,3,A1,0.5878455,3.969614,0.9696140289306641
+31,The chef prepared pasta for dinner.,The restaurant serves Italian food.,related,2,A1,0.68550617,4.213765,2.2137651443481445
+32,The athlete trained every morning.,The athlete entered a national competition.,related,2,A1,0.4251021,3.5627553,1.5627553462982178
+33,The library extended its opening hours.,Many students study at the library.,related,2,A1,0.53456104,3.8364027,1.8364026546478271
+34,The government announced a housing policy.,House prices have increased this year.,related,1,A1,0.4533456,3.6333637,2.633363723754883
+35,The researchers collected survey responses.,The study examined public attitudes.,related,3,A1,0.6839428,4.209857,1.2098569869995117
+36,The airport added a new terminal.,Passenger numbers at the airport increased.,related,2,A1,0.6056335,4.014084,2.0140838623046875
+37,The school purchased new computers.,Students use laptops in several classes.,related,2,A1,0.66587746,4.164694,2.164693832397461
+38,The farmer planted wheat in April.,The farm produces several types of grain.,related,3,A1,0.64220023,4.1055007,1.1055006980895996
+39,The film won an international award.,The director attended the film festival.,related,2,A1,0.49268463,3.7317114,1.7317113876342773
+40,The bank changed its interest rates.,Many customers have home loans.,related,2,A1,0.46373126,3.6593282,1.6593282222747803
+41,The hospital expanded its emergency department.,Emergency rooms treat urgent medical cases.,related,2,A2,0.7344179,4.336045,2.3360447883605957
+42,The university introduced a new course.,Students can choose from many subjects.,related,2,A2,0.4056171,3.5140429,1.514042854309082
+43,The council built a new cycle path.,More residents are commuting by bicycle.,related,2,A2,0.52519363,3.8129842,1.8129842281341553
+44,The factory installed solar panels.,The company is trying to reduce emissions.,related,3,A2,0.4587579,3.6468947,0.6468946933746338
+45,The team signed a new goalkeeper.,The club will play a match on Saturday.,related,2,A2,0.40168872,3.5042217,1.5042216777801514
+46,The phone has a larger battery.,The phone can be charged wirelessly.,related,2,A2,0.5416702,3.8541756,1.8541755676269531
+47,The conference attracted 500 participants.,Several researchers presented papers at the conference.,related,3,A2,0.42038757,3.5509686,0.5509686470031738
+48,The river level rose after the storm.,The region experienced unusually wet weather.,related,2,A2,0.5539742,3.8849354,1.8849353790283203
+49,The supermarket opened a new branch.,Customers can buy groceries there.,related,3,A2,0.5432073,3.8580182,0.858018159866333
+50,The museum displayed ancient pottery.,The exhibition focused on early civilizations.,related,3,A2,0.6869068,4.217267,1.2172670364379883
+51,The experiment was successful.,The experiment was not successful.,negation,0,A1,0.3735091,3.433773,3.4337730407714844
+52,The train arrived on time.,The train did not arrive on time.,negation,0,A1,0.5916457,3.9791143,3.979114294052124
+53,The patient has a fever.,The patient does not have a fever.,negation,0,A1,0.25553113,3.1388278,3.1388278007507324
+54,The company made a profit this year.,The company did not make a profit this year.,negation,0,A1,0.6284242,4.07106,4.0710601806640625
+55,Sarah attended the meeting.,Sarah did not attend the meeting.,negation,0,A1,0.324147,3.3103676,3.3103675842285156
+56,The door is locked.,The door is not locked.,negation,0,A1,0.50954723,3.773868,3.7738680839538574
+57,The software supports offline access.,The software does not support offline access.,negation,0,A1,0.44419825,3.6104956,3.6104955673217773
+58,The restaurant accepts credit cards.,The restaurant does not accept credit cards.,negation,0,A1,0.38162228,3.4540558,3.4540557861328125
+59,The package arrived yesterday.,The package did not arrive yesterday.,negation,0,A1,0.5595552,3.8988879,3.898887872695923
+60,The test detected the virus.,The test did not detect the virus.,negation,0,A1,0.4063581,3.5158954,3.515895366668701
+61,The students passed the examination.,The students did not pass the examination.,negation,0,A1,0.32871807,3.3217952,3.3217952251434326
+62,The machine is operating normally.,The machine is not operating normally.,negation,0,A1,0.43078855,3.5769713,3.5769712924957275
+63,The report contains confidential information.,The report does not contain confidential information.,negation,0,A1,0.53120595,3.8280149,3.828014850616455
+64,The road is open to traffic.,The road is not open to traffic.,negation,0,A1,0.3033849,3.2584622,3.2584621906280518
+65,The medication reduced the pain.,The medication did not reduce the pain.,negation,0,A1,0.7205524,4.301381,4.3013811111450195
+66,The applicant met all requirements.,The applicant did not meet all requirements.,negation,0,A2,0.18939784,2.9734945,2.973494529724121
+67,The file was successfully uploaded.,The file was not successfully uploaded.,negation,0,A2,0.25538138,3.1384535,3.138453483581543
+68,The building has wheelchair access.,The building does not have wheelchair access.,negation,0,A2,0.39480188,3.4870048,3.4870047569274902
+69,The witness recognised the suspect.,The witness did not recognise the suspect.,negation,0,A2,0.3918481,3.4796202,3.4796202182769775
+70,The new policy applies to international students.,The new policy does not apply to international students.,negation,0,A2,0.46101043,3.6525261,3.6525261402130127
+71,The device is connected to the network.,The device is not connected to the network.,negation,0,A2,0.3923817,3.4809542,3.480954170227051
+72,The data support the hypothesis.,The data do not support the hypothesis.,negation,0,A2,0.38578883,3.464472,3.4644720554351807
+73,The shop is open on Sundays.,The shop is not open on Sundays.,negation,0,A2,0.4744934,3.6862335,3.6862335205078125
+74,The flight includes a checked bag.,The flight does not include a checked bag.,negation,0,A2,0.44374964,3.609374,3.6093740463256836
+75,The treatment caused side effects.,The treatment did not cause side effects.,negation,0,A2,0.44794974,3.6198745,3.6198744773864746
+76,Alice gave the book to Bob.,Bob gave the book to Alice.,argument_reversal,3,A1,0.95611924,4.8902984,1.8902983665466309
+77,The dog chased the cat.,The cat chased the dog.,argument_reversal,3,A1,0.9448416,4.862104,1.8621039390563965
+78,The teacher praised the student.,The student praised the teacher.,argument_reversal,3,A1,0.994097,4.9852424,1.9852423667907715
+79,The car hit the bicycle.,The bicycle hit the car.,argument_reversal,2,A1,0.9705398,4.9263496,2.926349639892578
+80,The manager called the employee.,The employee called the manager.,argument_reversal,2,A1,0.98441225,4.9610305,2.9610304832458496
+81,The nurse helped the patient.,The patient helped the nurse.,argument_reversal,3,A1,0.988254,4.9706354,1.9706354141235352
+82,The company acquired the startup.,The startup acquired the company.,argument_reversal,2,A1,0.9858814,4.9647036,2.9647035598754883
+83,Emma defeated Olivia in the final.,Olivia defeated Emma in the final.,argument_reversal,3,A1,0.99744123,4.993603,1.993603229522705
+84,The police officer questioned the witness.,The witness questioned the police officer.,argument_reversal,1,A1,0.9892339,4.973085,3.9730849266052246
+85,The truck overtook the bus.,The bus overtook the truck.,argument_reversal,3,A1,0.98405945,4.960149,1.960148811340332
+86,The editor criticised the author.,The author criticised the editor.,argument_reversal,3,A1,0.9930491,4.982623,1.9826231002807617
+87,The mother hugged the child.,The child hugged the mother.,argument_reversal,3,A1,0.9937581,4.984395,1.9843950271606445
+88,The landlord sued the tenant.,The tenant sued the landlord.,argument_reversal,2,A1,0.9984546,4.9961367,2.9961366653442383
+89,The university funded the laboratory.,The laboratory funded the university.,argument_reversal,2,A1,0.96370494,4.909262,2.909262180328369
+90,The doctor referred the patient to the specialist.,The specialist referred the patient to the doctor.,argument_reversal,2,A1,0.9624051,4.9060125,2.906012535095215
+91,The senator supported the mayor.,The mayor supported the senator.,argument_reversal,3,A2,0.9889164,4.972291,1.9722909927368164
+92,The customer paid the supplier.,The supplier paid the customer.,argument_reversal,3,A2,0.9950265,4.9875665,1.9875664710998535
+93,The goalkeeper blocked the striker.,The striker blocked the goalkeeper.,argument_reversal,3,A2,0.99289596,4.9822397,1.9822397232055664
+94,The journalist interviewed the actor.,The actor interviewed the journalist.,argument_reversal,2,A2,0.95393306,4.8848324,2.8848323822021484
+95,The judge questioned the lawyer.,The lawyer questioned the judge.,argument_reversal,1,A2,0.98992515,4.974813,3.9748129844665527
+96,The buyer contacted the seller.,The seller contacted the buyer.,argument_reversal,1,A2,0.99524695,4.988117,3.988117218017578
+97,The parent taught the child French.,The child taught the parent French.,argument_reversal,1,A2,0.9925153,4.9812884,3.981288433074951
+98,The company licensed the technology to the university.,The university licensed the technology to the company.,argument_reversal,2,A2,0.90392923,4.759823,2.7598228454589844
+99,The host introduced the guest.,The guest introduced the host.,argument_reversal,3,A2,0.99368525,4.984213,1.984212875366211
+100,The doctor thanked the nurse.,The nurse thanked the doctor.,argument_reversal,3,A2,0.99490637,4.987266,1.9872660636901855
+101,Mortality fell by 20%.,Mortality fell by 2%.,numerical_change,3,A1,0.8605996,4.651499,1.651498794555664
+102,The meeting starts at 8 a.m.,The meeting starts at 8 p.m.,numerical_change,3,A1,0.9912525,4.9781313,1.9781312942504883
+103,The bridge is 500 metres long.,The bridge is 50 metres long.,numerical_change,3,A1,0.91613513,4.7903376,1.7903375625610352
+104,"The company employs 1,200 people.",The company employs 120 people.,numerical_change,3,A1,0.81638604,4.540965,1.5409650802612305
+105,The patient received 10 milligrams of the drug.,The patient received 100 milligrams of the drug.,numerical_change,3,A1,0.9144659,4.7861648,1.7861647605895996
+106,The temperature reached 40 degrees.,The temperature reached 14 degrees.,numerical_change,2,A1,0.5352258,3.8380647,1.8380646705627441
+107,The journey takes two hours.,The journey takes twelve hours.,numerical_change,3,A1,0.7762788,4.4406967,1.4406967163085938
+108,The project cost 3 million dollars.,The project cost 30 million dollars.,numerical_change,3,A1,0.79083514,4.477088,1.4770879745483398
+109,The study included 500 participants.,The study included 50 participants.,numerical_change,3,A1,0.91943544,4.7985888,1.798588752746582
+110,Sales increased by 15 percent.,Sales increased by 50 percent.,numerical_change,2,A1,0.68113875,4.202847,2.2028470039367676
+111,The building has 12 floors.,The building has 21 floors.,numerical_change,3,A2,0.6057918,4.0144796,1.014479637145996
+112,The train leaves at 6:15.,The train leaves at 6:50.,numerical_change,3,A2,0.8613175,4.6532936,1.6532936096191406
+113,The warranty lasts three years.,The warranty lasts thirteen years.,numerical_change,3,A2,0.7234932,4.308733,1.3087329864501953
+114,The package weighs 2 kilograms.,The package weighs 20 kilograms.,numerical_change,3,A2,0.7456041,4.36401,1.3640098571777344
+115,The team scored four goals.,The team scored fourteen goals.,numerical_change,2,A2,0.659003,4.1475077,2.147507667541504
+116,"The population is 80,000.","The population is 800,000.",numerical_change,3,A2,0.90003186,4.7500796,1.75007963180542
+117,The test took 30 minutes.,The test took 3 minutes.,numerical_change,3,A2,0.7954719,4.48868,1.4886798858642578
+118,The interest rate is 4.5 percent.,The interest rate is 9.5 percent.,numerical_change,2,A2,0.7944742,4.486185,2.486185073852539
+119,The course has 24 students.,The course has 42 students.,numerical_change,3,A2,0.7082182,4.2705455,1.270545482635498
+120,The battery lasts 18 hours.,The battery lasts 8 hours.,numerical_change,2,A2,0.76635456,4.4158864,2.415886402130127
+121,The conference was held in Sydney.,The conference was held in Melbourne.,entity_change,3,A1,0.79216653,4.4804163,1.4804162979125977
+122,Maria submitted the report.,Daniel submitted the report.,entity_change,3,A1,0.6989878,4.2474694,1.247469425201416
+123,The study was conducted in Australia.,The study was conducted in Canada.,entity_change,3,A1,0.40064138,3.5016036,0.5016036033630371
+124,Toyota announced the recall.,Honda announced the recall.,entity_change,3,A1,0.8508597,4.627149,1.6271491050720215
+125,The flight departed from London.,The flight departed from Paris.,entity_change,2,A1,0.89079607,4.72699,2.726990222930908
+126,The treaty was signed by France.,The treaty was signed by Germany.,entity_change,3,A1,0.5862078,3.9655197,0.9655196666717529
+127,The company opened an office in Singapore.,The company opened an office in Tokyo.,entity_change,3,A1,0.71264964,4.281624,1.2816238403320312
+128,The article was published by Reuters.,The article was published by Bloomberg.,entity_change,3,A1,0.62783957,4.069599,1.0695991516113281
+129,The match was played in Brisbane.,The match was played in Perth.,entity_change,3,A1,0.6033277,4.0083194,1.00831937789917
+130,The university partnered with Microsoft.,The university partnered with Google.,entity_change,3,A1,0.7425069,4.3562675,1.3562674522399902
+131,The package was delivered to Sarah.,The package was delivered to Michael.,entity_change,3,A2,0.7521266,4.3803163,1.3803162574768066
+132,The research focused on diabetes.,The research focused on asthma.,entity_change,2,A2,0.59614563,3.990364,1.9903640747070312
+133,The train travels to Newcastle.,The train travels to Wollongong.,entity_change,3,A2,0.84723955,4.6180987,1.6180987358093262
+134,The minister met the Japanese delegation.,The minister met the Korean delegation.,entity_change,3,A2,0.761322,4.403305,1.4033050537109375
+135,The software runs on Windows.,The software runs on Linux.,entity_change,3,A2,0.6194074,4.0485187,1.0485186576843262
+136,The patient was treated at Westmead Hospital.,The patient was treated at Royal Prince Alfred Hospital.,entity_change,3,A2,0.9155243,4.7888107,1.7888107299804688
+137,The company purchased equipment from Japan.,The company purchased equipment from China.,entity_change,3,A2,0.5909882,3.9774704,0.9774703979492188
+138,The award was given to Priya.,The award was given to James.,entity_change,3,A2,0.60931486,4.0232873,1.023287296295166
+139,The storm affected Queensland.,The storm affected Victoria.,entity_change,3,A2,0.7682984,4.420746,1.420745849609375
+140,The spacecraft was launched by NASA.,The spacecraft was launched by ESA.,entity_change,3,A2,0.8788183,4.697046,1.6970458030700684
+141,The child bought a bicycle.,Inflation increased in July.,unrelated,0,A1,0.18573886,2.964347,2.9643468856811523
+142,The cat slept on the sofa.,The company reported quarterly earnings.,unrelated,0,A1,0.019802209,2.5495055,2.5495054721832275
+143,The train arrived at the station.,Scientists discovered a new species of frog.,unrelated,0,A1,0.2196015,3.0490038,3.049003839492798
+144,She baked a chocolate cake.,The election will be held next month.,unrelated,0,A1,0.26728228,3.1682057,3.168205738067627
+145,The laptop battery is fully charged.,The river flooded several farms.,unrelated,0,A1,0.1147124,2.7867808,2.786780834197998
+146,The football team won the match.,The museum displayed ancient coins.,unrelated,0,A1,0.1787926,2.9469814,2.946981430053711
+147,He watered the garden.,The central bank changed interest rates.,unrelated,0,A1,0.24010938,3.1002736,3.100273609161377
+148,The doctor examined the patient.,A new bridge opened across the river.,unrelated,0,A1,0.1721663,2.9304159,2.9304158687591553
+149,The book contains twelve chapters.,The airport cancelled several flights.,unrelated,0,A1,0.2865677,3.2164192,3.216419219970703
+150,The restaurant serves breakfast.,The telescope captured images of Mars.,unrelated,0,A1,0.18825212,2.9706302,2.970630168914795
+151,The student submitted an essay.,Oil prices fell on Monday.,unrelated,0,A2,0.19990192,2.999755,2.9997549057006836
+152,The dog barked at the gate.,The software company released an update.,unrelated,0,A2,0.18197754,2.9549437,2.9549436569213867
+153,The bus was crowded this morning.,Researchers tested a new vaccine.,unrelated,0,A2,0.21972635,3.049316,3.049315929412842
+154,The painter finished the portrait.,The factory increased steel production.,unrelated,0,A2,0.29559854,3.2389963,3.2389962673187256
+155,The phone rang during dinner.,The council approved a housing development.,unrelated,0,A2,0.4207054,3.5517635,3.5517635345458984
+156,The baby is sleeping.,The stock market closed higher.,unrelated,0,A2,0.29292962,3.2323241,3.2323241233825684
+157,The chef chopped the onions.,The satellite entered orbit.,unrelated,0,A2,0.14566216,2.8641555,2.8641555309295654
+158,The teacher marked the exams.,The drought reduced crop yields.,unrelated,0,A2,0.27164915,3.179123,3.1791229248046875
+159,The window was left open.,The basketball player signed a new contract.,unrelated,0,A2,0.16928859,2.9232216,2.9232215881347656
+160,The coffee is too hot.,The government announced tax changes.,unrelated,0,A2,0.18606484,2.965162,2.9651620388031006

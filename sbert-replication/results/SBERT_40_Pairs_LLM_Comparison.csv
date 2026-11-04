@@ -1,0 +1,41 @@
+id,sentence1,sentence2,human_score,second_human_score,sbert_cosine,llm_score
+49,The supermarket opened a new branch.,Customers can buy groceries there.,3,3,0.5432073,2
+135,The software runs on Windows.,The software runs on Linux.,3,3,0.6194074,3
+24,The storm damaged several houses.,Several homes were damaged by the storm.,5,5,0.9525815,5
+65,The medication reduced the pain.,The medication did not reduce the pain.,0,0,0.7205524,0
+85,The truck overtook the bus.,The bus overtook the truck.,3,3,0.98405945,2
+55,Sarah attended the meeting.,Sarah did not attend the meeting.,0,0,0.324147,0
+93,The goalkeeper blocked the striker.,The striker blocked the goalkeeper.,3,3,0.99289596,2
+117,The test took 30 minutes.,The test took 3 minutes.,3,3,0.7954719,3
+51,The experiment was successful.,The experiment was not successful.,0,0,0.3735091,0
+27,The doctor prescribed antibiotics.,The patient visited a medical clinic.,2,2,0.7313289,2
+8,The researchers published their findings online.,The researchers released their results on the internet.,5,4,0.8779573,5
+50,The museum displayed ancient pottery.,The exhibition focused on early civilizations.,3,3,0.6869068,2
+31,The chef prepared pasta for dinner.,The restaurant serves Italian food.,2,2,0.68550617,2
+101,Mortality fell by 20%.,Mortality fell by 2%.,3,3,0.8605996,3
+111,The building has 12 floors.,The building has 21 floors.,3,3,0.6057918,3
+149,The book contains twelve chapters.,The airport cancelled several flights.,0,0,0.2865677,0
+139,The storm affected Queensland.,The storm affected Victoria.,3,3,0.7682984,3
+68,The building has wheelchair access.,The building does not have wheelchair access.,0,0,0.39480188,0
+78,The teacher praised the student.,The student praised the teacher.,3,2,0.994097,2
+2,The meeting begins at nine in the morning.,The meeting starts at 9 a.m.,5,5,0.9172976,5
+160,The coffee is too hot.,The government announced tax changes.,0,0,0.18606484,0
+86,The editor criticised the author.,The author criticised the editor.,3,3,0.9930491,2
+56,The door is locked.,The door is not locked.,0,0,0.50954723,0
+128,The article was published by Reuters.,The article was published by Bloomberg.,3,3,0.62783957,3
+122,Maria submitted the report.,Daniel submitted the report.,3,3,0.6989878,3
+70,The new policy applies to international students.,The new policy does not apply to international students.,0,0,0.46101043,0
+110,Sales increased by 15 percent.,Sales increased by 50 percent.,2,2,0.68113875,3
+17,The road was blocked after the accident.,The accident caused the road to be closed.,5,5,0.8457828,5
+104,"The company employs 1,200 people.",The company employs 120 people.,3,2,0.81638604,3
+150,The restaurant serves breakfast.,The telescope captured images of Mars.,0,0,0.18825212,0
+34,The government announced a housing policy.,House prices have increased this year.,1,2,0.4533456,2
+157,The chef chopped the onions.,The satellite entered orbit.,0,0,0.14566216,0
+92,The customer paid the supplier.,The supplier paid the customer.,3,3,0.9950265,2
+130,The university partnered with Microsoft.,The university partnered with Google.,3,3,0.7425069,3
+146,The football team won the match.,The museum displayed ancient coins.,0,0,0.1787926,0
+88,The landlord sued the tenant.,The tenant sued the landlord.,2,3,0.9984546,2
+129,The match was played in Brisbane.,The match was played in Perth.,3,3,0.6033277,3
+10,The temperature dropped during the night.,It became colder overnight.,5,4,0.7724579,5
+142,The cat slept on the sofa.,The company reported quarterly earnings.,0,0,0.019802209,0
+18,The patient reported severe chest pain.,The patient said they had intense pain in the chest.,5,5,0.954236,5
