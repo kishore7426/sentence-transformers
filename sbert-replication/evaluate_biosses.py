@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Evaluate the original SBERT-NLI-base model on BIOSSES (100 biomedical pairs)."""
 import argparse
 import numpy as np
